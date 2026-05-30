@@ -1,0 +1,53 @@
+<<<<<<< HEAD
+🎨 Color Palette Generator
+A sleek, responsive, and interactive web application that allows users to generate random color palettes instantly. Perfect for designers and developers looking for color inspiration. Users can click either the individual copy icons or the color blocks themselves to instantly copy the hexadecimal color values to their clipboard.
+
+✨ Features
+Instant Palette Generation: Click the "Generate Palette" button to instantly randomize a fresh batch of 5 cohesive colors.
+
+Dual-Copy Functionality: Click anywhere on a color block or on its specific copy icon to grab the Hex code.
+
+User Feedback Animation: Icons dynamically switch to a green checkmark (✓) for 1.5 seconds upon a successful copy action.
+
+Fully Responsive Design: Adapts smoothly across desktops, tablets, and mobile devices using CSS Grid layouts.
+
+Modern UI/UX: Built using clean Roboto typography, smooth transition states, hover animations, and subtle depth drop-shadows.
+
++---------------------------------------------------------+
+|                Color Palette Generator                  |
+|               [ ↻ Generate Palette ]                    |
+|                                                         |
+|  [ #E1F5FE ]  [ #B3EF5C ]  [ #81D4FA ]  [ #4FC3F7 ] ... |
+|     (📋)         (📋)         (📋)         (📋)         |
++---------------------------------------------------------+
+=======
+# WebDevProjects
+
+# Interactive Quiz Game
+
+A clean, responsive, and interactive Quiz Game web application built using HTML5, CSS3, and Vanilla JavaScript. This project features dynamic question rendering, a live progress tracker, real-time score calculation, and custom feedback based on final performance results.
+
+## 🚀 Features
+
+- **Dynamic UI/UX:** Smooth transitions between the Start Screen, Quiz Screen, and Results Screen without page reloads.
+- **Dynamic Content:** Questions and multiple-choice answers are loaded dynamically via JavaScript.
+- **Visual Feedback:** Instant green (correct) or red (incorrect) button highlights upon answering.
+- **Progress Tracking:** A functional animated progress bar that fills up as you advance through the quiz.
+- **Dynamic Scoring:** Displays real-time score updates during gameplay and showcases a smart rating message at the end based on your percentage score.
+- **Responsive Layout:** Optimized to look beautiful on desktops, tablets, and smartphones.
+
+## 🛠️ Built With
+
+- **HTML5:** Semantic structure and layout.
+- **CSS3:** Custom styling, Flexbox positioning, and transition animations.
+- **JavaScript (ES6):** State management, event handling, DOM manipulation, and logic flow.
+
+## 📁 Project Structure
+
+```text
+QuizGame/
+│
+├── index.html          # Semantic HTML markup and structural layout
+├── style.css           # Custom CSS styling and responsive configurations
+└── script.js           # Quiz engine logic, questions array, and event listeners
+>>>>>>> 7ccadd208ad02f6d51d91f317833e40950c15134
